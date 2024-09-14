@@ -6,7 +6,7 @@ import Image5 from "./images/boot.jpg"
 import Image6 from "./images/soap.jpg"
 import Image7 from "./images/headphone.jpg"
 import Image8 from "./images/robot.jpg"
-import Image9 from "./images/Watch2.jpg"
+import Image9 from "./images/watch2.jpg"
 import Image10 from "./images/shirt.jpg"
 
 export const Categories =[
